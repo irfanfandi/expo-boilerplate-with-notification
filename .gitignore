@@ -1,13 +1,12 @@
-node_modules/
-.expo/
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# macOS
-.DS_Store
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
