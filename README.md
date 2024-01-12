@@ -1,5 +1,5 @@
 # react-native-expo-notification
-React Native Expo Redux and Navigation BoilerPlate
+React Native Expo Notifiaction and Navigation BoilerPlate
 
 ## Expo 41 SDK, React Navigation V5 and other dependencies upgraded.
 
